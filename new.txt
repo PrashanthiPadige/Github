@@ -1,2 +1,14 @@
+#Welcome Note
 Welcome to Github
+
+##Introduction
 This is the first class
+
+## Content 
+Viewing the content of files
+
+## Purpose
+Need for the session 
+
+##Sections
+different topics covered  under sections 
