@@ -5,7 +5,8 @@ All are invited to the session
 ## Agenda
 what is discussed under session
 ## Sections
-Wht are the sections its divided into 
+Wht are the sections its divided into
+many sections  
 ## Benefits
 benefits of the session 
 Its pleasure leearning github
