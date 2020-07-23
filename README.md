@@ -8,5 +8,10 @@ what is discussed under session
 Wht are the sections its divided into 
 ## Benefits
 benefits of the session 
+Its pleasure leearning github
 ## Creation
 adding changes
+##Structure
+viewing of content 
+## Flow Chart
+steps to be followed 
