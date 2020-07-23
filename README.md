@@ -11,8 +11,8 @@ many sections
 benefits of the session 
 Its pleasure leearning github
 ## Creation
-adding changes
+adding changes to the existing projects 
 ##Structure
-viewing of content 
+viewing of content of the following topics  
 ## Flow Chart
 steps to be followed added
