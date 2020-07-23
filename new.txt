@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 WELCOME
 Introduction of the topics 
+=======
+
+>>>>>>> aebe77215b8006da52fb6895b787e2138d5d40de
